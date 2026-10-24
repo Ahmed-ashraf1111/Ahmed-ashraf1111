@@ -21,7 +21,7 @@ A full-stack university alumni platform featuring role-based access control, rea
 
 ### Inventory & Sales Management System
 A multi-tenant inventory and sales web application built with Node.js, Express, React, and PostgreSQL, with JWT authentication, automatic session expiry, and separate rules for sales and purchase invoices.
-🔗 Repository coming soon
+🔗 [View Repository](https://github.com/Ahmed-ashraf1111/inventory-sales-management-system)
 
 ## 🎓 Education & Training
 
