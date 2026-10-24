@@ -16,11 +16,15 @@ Software Engineering graduate passionate about building reliable, scalable web a
 ## 🚀 Featured Projects
 
 ### Alumni Portal – Graduation Project
+
 A full-stack university alumni platform featuring role-based access control, real-time notifications, digital alumni IDs, communities, and AI-powered content moderation. Deployed to a university server.
+
 🔗 [View Repository](https://github.com/Maloka-119/Alumni-Portal-project-GP)
 
 ### Inventory & Sales Management System
+
 A multi-tenant inventory and sales web application built with Node.js, Express, React, and PostgreSQL, with JWT authentication, automatic session expiry, and separate rules for sales and purchase invoices.
+
 🔗 [View Repository](https://github.com/Ahmed-ashraf1111/inventory-sales-management-system)
 
 ## 🎓 Education & Training
