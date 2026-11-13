@@ -8,12 +8,18 @@ Software Engineering graduate passionate about building reliable, scalable web a
 
 - **Languages:** JavaScript, Java, Python, C#
 - **Backend:** Node.js, Express.js
-- **Frontend:** React.js, Vite
+- **Frontend:** React.js, Vite, Tailwind CSS, shadcn/ui
 - **Databases:** PostgreSQL
 - **Tools:** Git, GitHub, Postman, VS Code
 - **Additional Training:** Web Development Using .NET – ITI
 
 ## 🚀 Featured Projects
+
+### Domus – Real Estate Platform
+
+A full-stack real estate platform with a public website for browsing and searching properties, and a staff workspace where admins and agents manage listings, leads, visits, and deals. Every website inquiry becomes a CRM lead automatically. Built with React, Node.js, Express, and PostgreSQL, with JWT authentication, role-based access, Arabic/English (RTL/LTR) support, dark mode, and 55 automated tests. Deployed live on Vercel.
+
+🔗 [Live Demo](https://domus-app-brown.vercel.app) | [View Repository](https://github.com/Ahmed-ashraf1111/domus)
 
 ### Alumni Portal – Graduation Project
 
